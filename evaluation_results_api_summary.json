@@ -1,0 +1,11 @@
+{
+    "total_test_cases": 40,
+    "skipped_cases": 0,
+    "failed_api_calls": 0,
+    "valid_evaluated_cases": 40,
+    "average_f1": 0.5447570422619794,
+    "average_rouge1": 0.6457822824733049,
+    "average_rouge2": 0.5411891794799069,
+    "average_rougeL": 0.5788255086319849,
+    "average_bleu": 0.32668806638788006
+}

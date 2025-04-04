@@ -1,0 +1,242 @@
+[
+    {
+      "test_case_id": "TC01",
+      "file_path": "Test_cases/test1.docx",
+      "question": "Việt Nam có bao nhiêu di sản được UNESCO công nhận là Di sản Văn hóa Thế giới?",
+      "ground_truth_answer": "Số Di sản Văn hóa Thế giới được UNESCO công nhận của Việt Nam là 8"
+    },
+    {
+      "test_case_id": "TC02",
+      "file_path": "Test_cases/test1.docx",
+      "question": "Luật Di sản Văn hóa của Việt Nam được thông qua năm nào và sửa đổi vào năm nào?",
+      "ground_truth_answer": "Luật Di sản Văn hóa của Việt Nam được Quốc hội thông qua năm 2001 và sửa đổi, bổ sung năm 2009"
+    },
+    {
+      "test_case_id": "TC03",
+      "file_path": "Test_cases/test1.docx",
+      "question": "Tại sao việc bảo tồn các làng nghề truyền thống ở Việt Nam gặp khó khăn?",
+      "ground_truth_answer": "Việc bảo tồn các làng nghề truyền thống ở Việt Nam gặp khó khăn là do thiếu sự quan tâm đúng mức, thiếu nguồn lực hoặc do tác động của các yếu tố kinh tế - xã hội, và thách thức trong việc duy trì và phát triển trong bối cảnh thị trường hiện đại"
+    },
+    {
+      "test_case_id": "TC04",
+      "file_path": "Test_cases/test1.docx",
+      "question": "Tại sao thế hệ trẻ được coi là quan trọng trong việc bảo tồn di sản văn hóa?",
+      "ground_truth_answer": "Vì thế hệ trẻ là những người sẽ tiếp nối truyền thống và lan tỏa các giá trị văn hóa trong tương lai"
+    },
+    {
+      "test_case_id": "TC05",
+      "file_path": "Test_cases/test1.docx",
+      "question": "Có phải tất cả các di sản văn hóa phi vật thể của Việt Nam đều được UNESCO công nhận không?",
+      "ground_truth_answer": "Không, chỉ có 14 di sản văn hóa phi vật thể được UNESCO ghi danh."
+    },
+    {
+      "test_case_id": "TC06",
+      "file_path": "Test_cases/test1.docx",
+      "question": "Nhã nhạc cung đình Huế vừa là di sản văn hóa vật thể vừa là di sản văn hóa phi vật thể phải không?",
+      "ground_truth_answer": "Phải, Nhã nhạc cung đình Huế vừa là di sản văn hóa vật thể vừa là di sản văn hóa phi vật thể"
+    },
+    {
+      "test_case_id": "TC07",
+      "file_path": "Test_cases/test1.docx",
+      "question": "Theo văn bản, Việt Nam có chính sách riêng để quản lý các di tích lịch sử cấp quốc gia không?",
+      "ground_truth_answer": "Không có thông tin trong văn bản"
+    },
+    {
+      "test_case_id": "TC08",
+      "file_path": "Test_cases/test1.docx",
+      "question": "Nêu tên một số di sản văn hóa phi vật thể của Việt Nam được UNESCO ghi danh?",
+      "ground_truth_answer": "Di sản văn hóa phi vật thể của Việt Nam được UNESCO ghi danh gồm Nhã nhạc cung đình Huế, Không gian văn hóa cồng chiêng Tây Nguyên, Quan họ Bắc Ninh, Ca trù, Hát Xoan Phú Thọ, Đờn ca tài tử Nam Bộ, Nghệ thuật Bài Chòi Trung Bộ"
+    },
+    {
+      "test_case_id": "TC09",
+      "file_path": "Test_cases/test1.docx",
+      "question": "Kể tên một số loại hình nghệ thuật truyền thống của Việt Nam?",
+      "ground_truth_answer": "Các loại hình nghệ thuật truyền thống của Việt Nam gồm cchèo, tuồng, cải lương, múa rối nước"
+    },
+    {
+      "test_case_id": "TC10",
+      "file_path": "Test_cases/test1.docx",
+      "question": "Di sản văn hóa phi vật thể nào là những 'báu vật' sống động thể hiện tâm hồn, tính cách và lối sống của người Việt?",
+      "ground_truth_answer": "Các loại hình nghệ thuật truyền thống như chèo, tuồng, cải lương, múa rối nước"
+    },
+    {
+      "test_case_id": "TC11",
+      "file_path": "Test_cases/test2.docx",
+      "question": "Nhiệt độ trung bình ở Việt Nam đã tăng bao nhiêu độ C trong vài thập kỷ qua?",
+      "ground_truth_answer": "Nhiệt độ trung bình ở Việt Nam đã tăng khoảng 0,5-0,7 độ C"
+    },
+    {
+      "test_case_id": "TC12",
+      "file_path": "Test_cases/test2.docx",
+      "question": "Mực nước biển dọc bờ biển Việt Nam đã dâng bao nhiêu trong 50 năm qua?",
+      "ground_truth_answer": "Mực nước biển dọc bờ biển Việt Nam đã dâng khoảng 20cm trong 50 năm qua."
+    },
+    {
+      "test_case_id": "TC13",
+      "file_path": "Test_cases/test2.docx",
+      "question": "Tại sao Đồng bằng sông Cửu Long được coi là khu vực chịu ảnh hưởng nghiêm trọng từ biến đổi khí hậu?",
+      "ground_truth_answer": "Đồng bằng sông Cửu Long được coi là khu vực chịu ảnh hưởng nghiêm trọng từ biến đổi khí hậu vì khu vực này đối mặt với tình trạng xâm nhập mặn nghiêm trọng, ảnh hưởng đến nguồn nước ngọt và sản xuất nông nghiệp, và nếu mực nước biển dâng 1m, khoảng 40% diện tích sẽ bị ngập"
+    },
+    {
+      "test_case_id": "TC14",
+      "file_path": "Test_cases/test2.docx",
+      "question": "Vì sao Việt Nam cần tăng cường hợp tác quốc tế trong ứng phó với biến đổi khí hậu?",
+      "ground_truth_answer": "Việt Nam cần tăng cường hợp tác quốc tế vì để tiếp cận các nguồn lực tài chính, công nghệ và kinh nghiệm của thế giới trong ứng phó với biến đổi khí hậu"
+    },
+    {
+      "test_case_id": "TC15",
+      "file_path": "Test_cases/test2.docx",
+      "question": "Có phải số lượng bão và áp thấp nhiệt đới ở Việt Nam có xu hướng tăng không?",
+      "ground_truth_answer": "Không, số lượng bão và áp thấp nhiệt đới ở Việt Nam có xu hướng giảm nhưng cường độ tăng."
+    },
+    {
+      "test_case_id": "TC16",
+      "file_path": "Test_cases/test2.docx",
+      "question": "Việt Nam đã cam kết đạt mức phát thải ròng bằng 0 vào năm 2050 tại Hội nghị COP26 phải không?",
+      "ground_truth_answer": "Đúng vậy, Việt Nam đã cam kết đạt mức phát thải ròng bằng 0 vào năm 2050 tại Hội nghị COP26."
+    },
+    {
+      "test_case_id": "TC17",
+      "file_path": "Test_cases/test2.docx",
+      "question": "Biến đổi khí hậu có tác động đến sức khỏe tâm thần của người dân Việt Nam không?",
+      "ground_truth_answer": "Không có thông tin cho thấy bbiến đổi khí hậu có tác động đến sức khỏe tâm thần của người dân Việt Nam."
+    },
+    {
+      "test_case_id": "TC18",
+      "file_path": "Test_cases/test2.docx",
+      "question": "Nêu một số biểu hiện của thời tiết cực đoan ở Việt Nam do biến đổi khí hậu?",
+      "ground_truth_answer": "Biểu hiện của thời tiết cực đoan ở Việt Nam do biến đổi khí hậu thường là bão và áp thấp nhiệt đới có cường độ tăng, các đợt nắng nóng kéo dài và gay gắt hơn, lượng mưa phân bố không đều gây lũ lụt và hạn hán, tình trạng xâm nhập mặn"
+    },
+    {
+      "test_case_id": "TC19",
+      "file_path": "Test_cases/test2.docx",
+      "question": "Việt Nam đang triển khai những giải pháp nào để giảm nhẹ phát thải khí nhà kính?",
+      "ground_truth_answer": "Để giảm nhẹ phát thải khí nhà kính Việt Nam đang phát triển năng lượng tái tạo (điện gió, điện mặt trời), nâng cao hiệu quả sử dụng năng lượng, phát triển giao thông xanh và thúc đẩy kinh tế tuần hoàn."
+    },
+    {
+      "test_case_id": "TC20",
+      "file_path": "Test_cases/test2.docx",
+      "question": "Đến cuối thế kỷ 21, nhiệt độ trung bình của Việt Nam dự kiến thay đổi như thế nào so với giai đoạn 1986-2005?",
+      "ground_truth_answer": "Đến cuối thế kỷ 21, nhiệt độ trung bình của Việt Nam có thể tăng thêm 2-3 độ C so với giai đoạn 1986-2005."
+    },
+    {
+      "test_case_id": "TC21",
+      "file_path": "Test_cases/test1.xlsx",
+      "question": "Tổng doanh thu cả năm của công ty Tech Vision là bao nhiêu tỷ đồng?",
+      "ground_truth_answer": "Tổng doanh thu cả năm của công ty Tech Vision là 319.4 tỷ đồng"
+    },
+    {
+      "test_case_id": "TC22",
+      "file_path": "Test_cases/test1.xlsx",
+      "question": "Tỷ lệ tăng trưởng doanh thu của công ty trong quý 4 là bao nhiêu phần trăm?",
+      "ground_truth_answer": "Tỷ lệ tăng trưởng doanh thu của công ty trong quý 4 là 15.8%."
+    },
+    {
+      "test_case_id": "TC23",
+      "file_path": "Test_cases/test1.xlsx",
+      "question": "Sản phẩm nào đóng góp nhiều nhất vào doanh thu của công ty Tech Vision?",
+      "ground_truth_answer": "Sản phẩm A (Thiết bị điện tử tiêu dùng) đóng góp nhiều nhất vào doanh thu của công ty Tech Vision."
+    },
+    {
+      "test_case_id": "TC24",
+      "file_path": "Test_cases/test1.xlsx",
+      "question": "Quý nào có biên lợi nhuận cao nhất và tại sao?",
+      "ground_truth_answer": "Quý 4 có biên lợi nhuận cao nhất (27.4%) do doanh thu tăng mạnh hơn so với chi phí."
+    },
+    {
+      "test_case_id": "TC25",
+      "file_path": "Test_cases/test1.xlsx",
+      "question": "Chi phí marketing có chiếm tỷ trọng lớn nhất trong tổng chi phí hoạt động không?",
+      "ground_truth_answer": "Không, Chi phí marketing không chiếm tỷ trọng lớn nhất trong tổng chi phí hoạt động."
+    },
+    {
+      "test_case_id": "TC26",
+      "file_path": "Test_cases/test1.xlsx",
+      "question": "Doanh thu của công ty có xu hướng tăng qua các quý không?",
+      "ground_truth_answer": "Có, Doanh thu của công ty có xu hướng tăng qua các quý"
+    },
+    {
+      "test_case_id": "TC27",
+      "file_path": "Test_cases/test1.xlsx",
+      "question": "Sản phẩm D có đạt lợi nhuận trong quý 2 không?",
+      "ground_truth_answer": "Không có thông tin về việc Sản phẩm D có đạt lợi nhuận trong quý 2."
+    },
+    {
+      "test_case_id": "TC28",
+      "file_path": "Test_cases/test1.xlsx",
+      "question": "Kể tên các khu vực phân phối sản phẩm của công ty theo thứ tự tỷ lệ đóng góp doanh thu từ cao xuống thấp?",
+      "ground_truth_answer": "Miền Bắc: 40.3%, Miền Nam: 34%, Miền Trung: 19.92%, Xuất khẩu: 5.78%."
+    },
+    {
+      "test_case_id": "TC29",
+      "file_path": "Test_cases/test1.xlsx",
+      "question": "Các khoản mục chi phí hoạt động của công ty là gì?",
+      "ground_truth_answer": "Các khoản mục chi phí hoạt động của công ty bao gồm: Chi phí sản xuất, Marketing, R&D, Vận hành."
+    },
+    {
+      "test_case_id": "TC30",
+      "file_path": "Test_cases/test1.xlsx",
+      "question": "Chi phí nào được công ty đầu tư nhiều nhất trong năm 2024?",
+      "ground_truth_answer": "Chi phí sản xuất được công ty đầu tư nhiều nhất trong năm 2024 với 146.1 tỷ đồng."
+    },
+    {
+      "test_case_id": "TC31",
+      "file_path": "Test_cases/test2.xlsx",
+      "question": "Tổng số nhân viên của công ty ABC vào cuối năm 2024 là bao nhiêu người?",
+      "ground_truth_answer": "Tổng số nhân viên của công ty ABC vào cuối năm 2024 là 167 người."
+    },
+    {
+      "test_case_id": "TC32",
+      "file_path": "Test_cases/test2.xlsx",
+      "question": "Phòng ban nào có tỷ lệ nữ cao nhất trong công ty?",
+      "ground_truth_answer": "Phòng ban có tỷ lệ nữ cao nhất trong công ty là Phòng Nhân sự với 87.5%."
+    },
+    {
+      "test_case_id": "TC33",
+      "file_path": "Test_cases/test2.xlsx",
+      "question": "Vì sao có thể nói công ty ABC đang tập trung vào việc nâng cao chất lượng nhân sự?",
+      "ground_truth_answer": "Vì công ty đã tổ chức 65 khóa đào tạo với 1101 lượt tham gia, chi phí 985.5 triệu đồng, và có 75.3% nhân viên được tăng lương sau đánh giá hiệu suất."
+    },
+    {
+      "test_case_id": "TC34",
+      "file_path": "Test_cases/test2.xlsx",
+      "question": "Phòng ban nào đang có lương bình quân cao nhất và vì sao?",
+      "ground_truth_answer": "Ban Giám đốc với mức lương bình quân 85.4 triệu đồng, có thể do vị trí quản lý cấp cao đòi hỏi trình độ và trách nhiệm cao."
+    },
+    {
+      "test_case_id": "TC35",
+      "file_path": "Test_cases/test2.xlsx",
+      "question": "Tỷ lệ nghỉ việc của công ty có xu hướng giảm dần qua các quý trong năm 2024 không?",
+      "ground_truth_answer": "Tỷ lệ nghỉ việc của công ty có xu hướng giảm dần qua các quý trong năm 2024."
+    },
+    {
+      "test_case_id": "TC36",
+      "file_path": "Test_cases/test2.xlsx",
+      "question": "Nhân viên được xếp loại 'Cần cải thiện' có được tăng lương không?",
+      "ground_truth_answer": "Nhân viên được xếp loại 'Cần cải thiện' không được tăng lương."
+    },
+    {
+      "test_case_id": "TC37",
+      "file_path": "Test_cases/test2.xlsx",
+      "question": "Công ty ABC có chính sách thưởng riêng cho nhân viên xuất sắc không?",
+      "ground_truth_answer": "Không có thông tin cho thấy công ty ABC có chính sách thưởng riêng cho nhân viên xuất sắc."
+    },
+    {
+      "test_case_id": "TC38",
+      "file_path": "Test_cases/test2.xlsx",
+      "question": "Trong năm 2024 công ty đã tổ chức các loại hình đào tạo nào?",
+      "ground_truth_answer": "Trong năm 2024 công ty đã tổ chức các loại hình đào tạo: Kỹ năng chuyên môn, Kỹ năng mềm, Quản lý, lãnh đạo, Ngoại ngữ, An toàn, sức khỏe."
+    },
+    {
+      "test_case_id": "TC39",
+      "file_path": "Test_cases/test2.xlsx",
+      "question": "Bảng đánh giá hiệu suất của nhân viên trong công ty bao gồm những xếp loại gì?",
+      "ground_truth_answer": "Xuất sắc, Tốt, Đạt yêu cầu, Cần cải thiện."
+    },
+    {
+      "test_case_id": "TC40",
+      "file_path": "Test_cases/test2.xlsx",
+      "question": "Nhóm nhân viên nào có tỷ lệ được tăng lương cao nhất trong công ty?",
+      "ground_truth_answer": "Nhóm nhân viên được xếp loại Xuất sắc có tỷ lệ được tăng lương cao nhất trong công ty với 100%."
+    }
+  ]
